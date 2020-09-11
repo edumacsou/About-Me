@@ -2,8 +2,6 @@
 
 ## Hello World! :robot:
 
-
-## About me
 I like solving problems, puzzles and riddles with the help of technology. I am passionate about computer theory and learning how computers work. 
 My programming skills are constantly in progress :computer:
 <br/> I like to create new ways to do classic house chores, such as automating plant irrigation and turning off/on lights.
